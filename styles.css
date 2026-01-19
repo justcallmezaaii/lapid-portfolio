@@ -1,0 +1,60 @@
+@import "tailwindcss";
+
+
+:root {
+  line-height: 1.5;
+  font-weight: 400;
+
+  color-scheme: light dark;
+  color: rgba(248, 244, 244, 0.87);
+  background-size: cover;
+  background-position: center;
+}
+body{
+  font-family: 'SF Pro Display', sans-serif !important;
+  margin: 0;
+  display: flex;
+  place-items: center;
+
+}
+  
+a {
+  font-weight: 500;
+  color: #cecfe9;
+  text-decoration: inherit;
+}
+a:hover {
+  color: #d1d2e1;
+}
+button{
+  border-radius: 10px;
+  cursor: pointer;
+  border-radius: 8px;
+  border: 1px solid transparent;
+  padding: 0.6em 1.2em;
+  transition: border-color 0.25s;
+}
+.img{
+    width: 80px;
+    height: 80px;
+    }
+h1 {
+  font-size: 3.2em;
+  line-height: 1.1;
+}
+
+.headerAbout {
+  text-align: center;
+  margin-bottom: 30px;
+  font-size: 24px;
+  color: #333;
+  font-family: monospace;
+}
+
+.fade-in {
+  animation: fadeIn 0.3s ease-in-out;
+}
+@keyframes fadeIn {
+  from { opacity: 0; transform: scale(0.95); }
+  to { opacity: 1; transform: scale(1); }
+}
