@@ -10,7 +10,7 @@
  
 <br />  
 <br />  
-<a href="[https://justcallmezaaii.github.io/lapid-porfolio/](https://justcallmezaaii.github.io/lapid-porfolio/)">View Demo</a> 
+<a href="[https://justcallmezaaii.github.io/lapid-portfolio/](https://justcallmezaaii.github.io/lapid-portfolio/)">View Demo</a> 
 </p>  
 </div>  
 
@@ -23,8 +23,8 @@
 
 ### Top contributors:
 
-<a href="https://https://github.com/justcallmezaaii/lapid-porfolio/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=justcallmezaaii/lapid-porfolio" alt="contrib.rocks image" />
+<a href="https://https://github.com/justcallmezaaii/lapid-portfolio/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=justcallmezaaii/lapid-portfolio" alt="contrib.rocks image" />
 </a>
   
   
@@ -33,9 +33,9 @@
   
 Zairen V. Lapid - zvl0248@students.uc-bcf.edu.ph  
 
-Project Link: [[https://github.com/justcallmezaaii/lapid-porfolio](https://github.com/justcallmezaaii/lapid-porfolio)]
+Project Link: [[https://github.com/justcallmezaaii/lapid-portfolio](https://github.com/justcallmezaaii/lapid-portfolio)]
   
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-[contributors-url]: https://github.com/justcallmezaaii/lapid-porfolio/graphs/contributors
+[contributors-url]: https://github.com/justcallmezaaii/lapid-portfolio/graphs/contributors
