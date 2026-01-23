@@ -10,7 +10,7 @@
  
 <br />  
 <br />  
-<a href="[https://justcallmezaaii.github.io/lapid-portfolio/](https://justcallmezaaii.github.io/lapid-portfolio/)">View Demo</a> 
+<a href="https://justcallmezaaii.github.io/lapid-portfolio">View Demo</a> 
 </p>  
 </div>  
 
